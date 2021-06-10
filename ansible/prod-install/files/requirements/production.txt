@@ -1,4 +1,4 @@
-Django==1.11.2
+Django==2.2.24
 Pillow==5.0.0
 django-tastypie>=0.12.2
 django-tastypie-swagger
